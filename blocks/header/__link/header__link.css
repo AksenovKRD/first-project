@@ -1,0 +1,14 @@
+.header__link {
+  /*убрал подчёркивание*/
+  text-decoration: none;
+  color: #2f80ed;
+  /*Указатель, обозначающий ссылку, обычно указующая рука.*/
+  cursor: pointer;
+}
+
+/*при наведении курсора*/
+.header__link:hover {
+  transition-duration: 1s;
+ /*прозрачность при наведении*/
+  opacity: .3;
+}

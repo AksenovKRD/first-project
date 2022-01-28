@@ -1,0 +1,11 @@
+.cards__item {
+  margin-top: 60px;
+  margin-right: 100px;
+  text-align: center;
+  /* (920-200)/3=240*/
+  width: 240px;
+}
+
+.cards__item:nth-child(3n) {
+  margin-right: 0;
+}

@@ -1,0 +1,23 @@
+.footer__column-link {
+  padding-bottom: 10px;
+  list-style-type: none;
+}
+
+.footer__column-link:hover {
+  transition-duration: 1s;
+  opacity: .3;
+}
+
+.footer__column-link a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+}
+/*вариант с белыми маркерами
+.footer__column-link::marker {
+  color: white;
+}
+*/
