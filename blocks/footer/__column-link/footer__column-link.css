@@ -8,7 +8,7 @@
   opacity: .3;
 }
 
-.footer__column-link a {
+.footer__column-link-small  {
   color: white;
   text-decoration: none;
   cursor: pointer;
