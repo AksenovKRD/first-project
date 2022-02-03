@@ -1,10 +1,10 @@
 .logo_place_footer {
-    background-image: url(../../../images/logo.svg);
+    background-image: url(../../../images/logo_grey.svg);
     z-index: 2;
     width: 183px;
     height: 35px;
     background-repeat: no-repeat;
-    background-color:#1f1f1f ;
+    
 
 
 }
